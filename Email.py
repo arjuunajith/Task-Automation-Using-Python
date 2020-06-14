@@ -16,6 +16,6 @@ server.login("arjuunajith@gmail.com","")
 
 server.send_message(msg)
 
-print("Mail sent")
+print("Mail Sent")
 
 server.quit()
